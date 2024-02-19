@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samuelsolano00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MeQfoKopAYwZeJKr1ikDg0pQTnyCaZ1S/view?usp=drive_link](https://drive.google.com/file/d/1MeQfoKopAYwZeJKr1ikDg0pQTnyCaZ1S/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/1MeQfoKopAYwZeJKr1ikDg0pQTnyCaZ1S/view?usp=drive_link](https://drive.google.com/file/d/1MeQfoKopAYwZeJKr1ikDg0pQTnyCaZ1S/view?usp=drive_link)
 
 - ⚡ Fun fact **I play four instruments!**
 
