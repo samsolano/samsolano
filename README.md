@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h1 align="center">Hi 👋, I'm Sam Solano</h1>
 <h3 align="center">A passionate Engineering Student at Cal Poly</h3>
 
