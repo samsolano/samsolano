@@ -14,8 +14,8 @@ Git Config   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   00.09 %
 
 <!--END_SECTION:waka-->
 
-<h1 align="center">Hi 👋, I'm Sam Solano</h1>
-<h3 align="center">A passionate Engineering Student at Cal Poly</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm a Computer Engineering 4th Year at Cal Poly</h3>
 
 - 🔭 I’m currently working on Autogenerating API Documentation
 
