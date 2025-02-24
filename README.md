@@ -17,18 +17,11 @@ Git Config   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   00.09 %
 <h1 align="center">Hi 👋, I'm Sam Solano</h1>
 <h3 align="center">A passionate Engineering Student at Cal Poly</h3>
 
-- 🔭 I’m currently working on **Task List with authentification**
+- 🔭 I’m currently working on Autogenerating API Documentation
 
 - 🌱 I’m currently learning **React and Firebase**
 
-- 👯 I’m looking to collaborate on **Any projects with an impact**
-
-- 💬 Ask me about **Algorithms**
-
 - 📫 How to reach me **samuelsolano00@gmail.com**
-
-- 📄 My Resume [https://drive.google.com/file/d/1MeQfoKopAYwZeJKr1ikDg0pQTnyCaZ1S/view?usp=drive_link](https://drive.google.com/file/d/1MeQfoKopAYwZeJKr1ikDg0pQTnyCaZ1S/view?usp=drive_link)
-
 - ⚡ Fun fact **I play four instruments!**
 
 <h3 align="left">Connect with me:</h3>
