@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2025 - To: 07 March 2025
+From: 20 February 2025 - To: 08 March 2025
 
-Total Time: 15 hrs
+Total Time: 17 hrs 41 mins
 
-C             8 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   53.40 %
-TOML          1 hr 35 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   10.57 %
-Python        1 hr 28 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   09.76 %
-JavaScript    1 hr 13 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   08.16 %
-TypeScript    48 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   05.31 %
+C             9 hrs 28 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   53.28 %
+Python        2 hrs 40 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   15.03 %
+TOML          1 hr 35 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   08.98 %
+JavaScript    1 hr 13 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   06.93 %
+TypeScript    48 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   04.51 %
 ```
 
 <!--END_SECTION:waka-->
