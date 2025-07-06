@@ -19,7 +19,7 @@ JSON          4 hrs 48 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   02.74 %
 
 
 
-- 🌱 I’m currently learning **React and Firebase**
+- 🌱 I’m currently working on startups
 
 - 📫 How to reach me **samuelsolano00@gmail.com**
 - ⚡ Fun fact **I play four instruments!**
