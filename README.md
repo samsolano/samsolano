@@ -15,7 +15,7 @@ JSON          4 hrs 48 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   02.74 %
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm a Computer Engineering 4th Year at Cal Poly</h3>
+<h3 align="center">I'm a Computer Engineering Grad From Cal Poly</h3>
 
 
 
