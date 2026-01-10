@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2025 - To: 09 January 2026
+From: 20 February 2025 - To: 10 January 2026
 
-Total Time: 408 hrs 42 mins
+Total Time: 413 hrs 45 mins
 
-TypeScript    181 hrs 42 mins >>>>>>>>>>>>>>>>>>>>>>>>>   44.30 %
-Python        131 hrs 41 mins >>>>>>>>>>>>>>>>>>>>>>>>>   32.10 %
-C             33 hrs 5 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   08.07 %
-Markdown      13 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   03.32 %
-JavaScript    10 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   02.48 %
+TypeScript    181 hrs 46 mins >>>>>>>>>>>>>>>>>>>>>>>>>   43.78 %
+Python        135 hrs 58 mins >>>>>>>>>>>>>>>>>>>>>>>>>   32.75 %
+C             33 hrs 5 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   07.97 %
+Markdown      14 hrs          >>>>>>>>>>>>>>>>>>>>>>>>>   03.37 %
+JavaScript    10 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   02.45 %
 ```
 
 <!--END_SECTION:waka-->
