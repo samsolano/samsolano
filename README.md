@@ -3,10 +3,10 @@
 ```txt
 From: 20 February 2025 - To: 21 May 2026
 
-Total Time: 530 hrs 34 mins
+Total Time: 530 hrs 41 mins
 
-TypeScript    249 hrs 49 mins       >>>>>>>>>>>>>>>>>>>>>>>>>   46.82 %
-Python        161 hrs 17 mins       >>>>>>>>>>>>>>>>>>>>>>>>>   30.23 %
+TypeScript    249 hrs 55 mins       >>>>>>>>>>>>>>>>>>>>>>>>>   46.83 %
+Python        161 hrs 17 mins       >>>>>>>>>>>>>>>>>>>>>>>>>   30.22 %
 C             33 hrs 5 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   06.20 %
 Markdown      27 hrs 31 mins        >>>>>>>>>>>>>>>>>>>>>>>>>   05.16 %
 JSON          13 hrs 1 min          >>>>>>>>>>>>>>>>>>>>>>>>>   02.44 %
